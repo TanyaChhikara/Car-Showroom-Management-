@@ -1,3 +1,4 @@
+// This project is used to store and manage car showroom records.
 //	Header Files
 #include<string.h> //strupr(), strcpy(),strcmpi()
 #include<iostream>//cin and cout
