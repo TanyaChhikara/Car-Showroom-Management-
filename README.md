@@ -1,5 +1,5 @@
 # Car Showroom Management
-This project has been designed using features of C++ programming language - Data File Handling and OOPS Concepts: classes. It is useful for the Managers to sell cars and keep records of the customers and their details. It uses basic oops features like classes, inheritance, data hiding and polymorphism.
+This project has been designed using features of C++ programming language - Data File Handling and OOPS Concepts: classes. It is useful for the Managers to sell cars and keep records of the customers and their details. It uses basic oops features like classes, inheritance, data hiding, polymorphism etc.
 ## Output Screenshots
 ![Screenshot (837)](https://user-images.githubusercontent.com/79586394/180049744-d08ddb6b-5933-4f08-9886-52b4d4fa7187.png)
 ![Screenshot (838)](https://user-images.githubusercontent.com/79586394/180049755-6a251582-a7b2-425b-849a-93c46cd0349d.png)
